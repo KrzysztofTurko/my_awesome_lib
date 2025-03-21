@@ -1,19 +1,24 @@
-My Awesome Lib to biblioteka Pythona, która dostarcza narzędzia do przetwarzania danych, obliczeń matematycznych oraz manipulacji tekstem. Jest przeznaczona dla programistów, którzy potrzebują prostych i efektywnych rozwiązań do codziennych zadań programistycznych.
+# My Awesome Lib
 
-Główne możliwości
-Przetwarzanie danych: Konwersja listy ciągów znaków na listę liczb całkowitych.
+`My Awesome Lib` to biblioteka Pythona, która dostarcza narzędzia do przetwarzania danych, obliczeń matematycznych oraz manipulacji tekstem. Jest przeznaczona dla programistów, którzy potrzebują prostych i efektywnych rozwiązań do codziennych zadań programistycznych.
 
-Obliczenia matematyczne: Proste operacje arytmetyczne, takie jak dodawanie.
+---
 
-Manipulacja tekstem: Odwracanie ciągów znaków.
+## Główne możliwości
 
-Instalacja
-Instalacja ręczna
-Sklonuj repozytorium:
+- **Przetwarzanie danych**: Konwersja listy ciągów znaków na listę liczb całkowitych.
+- **Obliczenia matematyczne**: Proste operacje arytmetyczne, takie jak dodawanie.
+- **Manipulacja tekstem**: Odwracanie ciągów znaków.
 
-bash
-Copy
-git clone https://github.com/KrzysztofTurko/my_awesome_lib.git
+---
+
+## Instalacja
+
+### Instalacja ręczna
+
+1. Sklonuj repozytorium:
+   ```bash
+   git clone https://github.com/KrzysztofTurko/my_awesome_lib.git
 Przejdź do folderu projektu:
 
 bash
@@ -51,7 +56,7 @@ print(result)  # Output: "olleh"
 Licencja
 Ten projekt jest dostępny na licencji MIT. Szczegóły można znaleźć w pliku LICENSE.
 
-
+Autor
 Autor: Krzysztof Turko
 
 Email: krzysztof.turko1990@gmail.com
