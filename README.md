@@ -70,7 +70,7 @@ print(result)  # Output: "olleh"
 
 ## 📜 Licencja
 
-Ten projekt jest dostępny na licencji MIT. Szczegóły można znaleźć w pliku [LICENSE](./LICENSE).
+Ten projekt jest dostępny na licencji MIT. 
 
 ---
 
