@@ -1,6 +1,4 @@
-
-
-
+My Awesome Lib
 My Awesome Lib to biblioteka Pythona, która dostarcza narzędzia do przetwarzania danych, obliczeń matematycznych oraz manipulacji tekstem. Jest przeznaczona dla programistów, którzy potrzebują prostych i efektywnych rozwiązań do codziennych zadań programistycznych.
 
 Główne możliwości
@@ -16,7 +14,7 @@ Sklonuj repozytorium:
 
 bash
 Copy
-git clone [https://github.com/KrzysztofTurko/my_awesome_lib/my_awesome_lib.git]
+git clone https://github.com/KrzysztofTurko/my_awesome_lib.git
 Przejdź do folderu projektu:
 
 bash
